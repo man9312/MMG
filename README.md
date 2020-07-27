@@ -1,2 +1,0 @@
-# MMG
-my first app
